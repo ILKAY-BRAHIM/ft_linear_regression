@@ -47,5 +47,5 @@ python predictor.py
 <img width="634" alt="Screen Shot 2024-05-27 at 12 39 38 PM" src="https://github.com/ILKAY-BRAHIM/ft_linear_regression/assets/88441828/3a3479f4-8a7c-49dd-814e-1bcb3fd9dcf1"> <br>
 
   Plot the cost function history <br>
-  <img width="639" alt="Screen Shot 2024-05-27 at 12 39 25 PM" src="https://github.com/ILKAY-BRAHIM/ft_linear_regression/assets/88441828/4b2e8772-5702-47c6-bf7e-475b5c380d3c">
+  <img width="639" alt="Screen Shot 2024-05-27 at 12 39 25 PM" src="https://github.com/ILKAY-BRAHIM/ft_linear_regression/assets/88441828/4b2e8772-5702-47c6-bf7e-475b5c380d3c"> <br>
 
